@@ -1,6 +1,6 @@
 # Surfparrot Project
 
-Surfparrot is a full-stack web application built with React, Node, Express, PostgreSQL, Axios, and Spotify API that allows users to quickly preview music by artist who are going to be playing in their area soon.
+Surfparrot is a full-stack web application built with React, Node, Express, PostgreSQL, Axios, and Spotify API that allows users to quickly preview music by artists who are going to be playing in their area soon.
 
 ## Final Product
 

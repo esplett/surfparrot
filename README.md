@@ -1,6 +1,6 @@
 # Surfparrot Project
 
-Surfparrot is a full-stack web application for Toronto show listings built with React, Node, Express, PostgreSQL, Axios, and Spotify API. Surfparrot offers a fun and easy way for music fans to quickly preview bands and check out musicians before attending local shows. We also have a recommendations feature connected to the Spotify API to get show recommendations and encourage fans to discover new music. Musicians and promoters can create accounts and add their own shows to the listings.
+Surfparrot is a full-stack web application for Toronto show listings built with React, Node, Express, PostgreSQL, Axios, and Spotify API. Surfparrot offers a fun and easy way for music fans to quickly preview bands and check out musicians before attending local shows. We also have a recommendations feature connected to the Spotify API to get show recommendations and facilitate discovering new music. Musicians and promoters can eaily create accounts and add their own shows to the listings, encouraging music fans to attend local shows as well as shows by more established bands.
 
 ## Final Product
 

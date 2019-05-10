@@ -42,14 +42,6 @@ Surfparrot is a full-stack web application for Toronto show listings built with 
 6. Run the server at server folder: `npm start`
 7. Visit `http://localhost:3000/`
 
-## Functionality
-
-Surfparrot is an app for live-music event listing. Users can preview music by artist who are going to be playing in their area soon. Artists can create events at their respective page.
-
-Once the user has previewed multiple songs, they get show recommendations based on their selection.
-
-Surfparrot is designed to allow users to preview music before attending the event. This method allows them to get an idea on what the artist is like. The live-music event listing at home page is real-time through integrating www.rotate.com and Spotify API.
-
 ## Contributors
 
 - Ryota Mine
